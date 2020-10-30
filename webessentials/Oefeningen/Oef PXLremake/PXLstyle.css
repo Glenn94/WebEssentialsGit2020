@@ -1,0 +1,17 @@
+body {
+    background-color: aliceblue;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    color: red;
+}
+h2{
+    color: darkgreen;
+}
+
+p {
+    background-color: lightcyan;
+    color: black;
+    padding: 20px;
+}
