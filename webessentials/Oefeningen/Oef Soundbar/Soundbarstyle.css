@@ -1,26 +1,29 @@
-body {
-    background-color: #151c28;
-}
-
-h1 {
-    color: #ffe14f;
+body{
+    background: #151c28;
     text-align: center;
-    font-size: 3em;
-}
 
-article {
-    border: 2px solid #ffe14f;
-    border-radius: 6px;
-    padding: 8px;
-    width: 30%;
-    margin: 10px auto;
 }
-
-article > img {
-    height: 128px;
+h1{
+    font-size: 30pt;
+    font-family: "Verdana";
+    color: yellow;
 }
-
-article:hover {
-    background-color: #8daec6;
-    cursor: pointer;
+.highlight{
+    border-color: #ffe14f;
+    border-style: solid;
+    border-radius: 300px;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+#doorbell{
+    background: #4a708f;
+    border-radius: 300px;
+    border-style: solid;
+    margin-right: 500px;
+    margin-left: 500px;
+    border-color: #ffe14f;
+}
+img:hover{
+    height: 175px; width: 175px;
+    filter: blur(1px);
 }
