@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c5e720b-493f-4eb2-a3a2-5e70e8ff6657" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/../.idea/Web Essentials.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/webessentials.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W3 Validation - HTML checker.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W3Schools - Online Web Tutorials.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebStorm 2020.2.2 x64.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/asiwyfa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/dameWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/dameZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/fwmac.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/hout.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/koningWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/koningZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/loperWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/loperZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/paardWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/paardZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/pearljam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/pionWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/pionZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/torenWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/torenZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/witte-marmer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/assets/zwarte-marmer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/.idea/webessentials.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oef Tabellen/Mozaiek/Mozaiek.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oef Tabellen/Mozaiek/Mozaiekstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oef Tabellen/Schaakbord/Schaakbord.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oef Tabellen/Schaakbord/Schaakbordstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oef Tabellen/Tabellen Oef 1/Puntenlijst.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oef Tabellen/Tabellen Oef 1/Tabellen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/Oef Mijn Muziek/Mijn muziek.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/Oef Mijn Muziek/albumsstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/Oef Mijn Muziek/mijnmuziekstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/Oef PXLremake/PXLremake.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/Oef PXLremake/PXLstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/Oef Soundbar/Soundbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/Oef Soundbar/Soundbarstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/oefblokelement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/pxlremake.html/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/pxlremake.html/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/pxlremake.html/.idea/pxlremake.html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/pxlremake.html/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/pxlremake.html/muziek.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/pxlremake.html/profiel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/pxlremake.html/pxlremake.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/css/new CSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/doc/TOC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/doc/css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/doc/extend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/doc/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/doc/html.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/doc/js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/doc/misc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/doc/usage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/humans.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/img/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/js/vendor/modernizr-3.11.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/tile-wide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/tile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled1/youtube.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/Playlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/doc/TOC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/doc/afbeeldingen oef 2/AndSIWatchYouFrom Afar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/doc/afbeeldingen oef 2/FleetwoodMac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/doc/afbeeldingen oef 2/PearlJamTen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/doc/css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/doc/extend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/doc/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/doc/html.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/doc/js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/doc/misc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/doc/usage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/humans.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/img/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/js/vendor/modernizr-3.11.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/oef2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/tile-wide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebstormProjects/webessentials/Oefeningen/untitled2/tile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webessentials.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVcss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Git/Git Bash.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Git/Git CMD.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Git/Git FAQs (Frequently Asked Questions).url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Git/Git GUI.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Git/Git Release Notes.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Git/Git-2.29.0-64-bit.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/oefblokelement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/pxlremake.html/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/pxlremake.html/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/pxlremake.html/.idea/pxlremake.html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/pxlremake.html/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/css/new CSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/doc/TOC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/doc/css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/doc/extend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/doc/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/doc/html.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/doc/js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/doc/misc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/doc/usage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/humans.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/img/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/js/vendor/modernizr-3.11.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/tile-wide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/tile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled1/youtube.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/Playlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/doc/TOC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/doc/afbeeldingen oef 2/AndSIWatchYouFrom Afar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/doc/afbeeldingen oef 2/FleetwoodMac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/doc/afbeeldingen oef 2/PearlJamTen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/doc/css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/doc/extend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/doc/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/doc/html.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/doc/js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/doc/misc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/doc/usage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/humans.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/img/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/js/vendor/modernizr-3.11.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/oef2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/tile-wide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oefeningen/untitled2/tile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Presentaties/Presentatie_html_css (2).pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Presentaties/Presentatie_week1-2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/asiwyfa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/dameWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/dameZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fwmac.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/hout.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/koningWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/koningZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/loperWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/loperZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/paardWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/paardZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pearljam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pionWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pionZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/torenWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/torenZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/witte-marmer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/zwarte-marmer.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1k3bMZgDps04OhqXJgWTfjFdcte" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c5e720b-493f-4eb2-a3a2-5e70e8ff6657" name="Default Changelist" comment="" />
+      <created>1604932174409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604932174409</updated>
+      <workItem from="1604932175649" duration="6742000" />
+      <workItem from="1605188990578" duration="1881000" />
+      <workItem from="1605190910369" duration="3130000" />
+      <workItem from="1605270265255" duration="1575000" />
+      <workItem from="1605286075973" duration="1883000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1605193266586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605193266586</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="177" key="#Intentions" timestamp="1605191584055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="177" key="#Intentions/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605191584055" />
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1605193260913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605193260913" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1605189109311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605189109311" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1605192026412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605192026412" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605193270271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605193270271" />
+    <state x="582" y="162" width="672" height="678" key="search.everywhere.popup" timestamp="1605191840904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="582" y="162" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605191840904" />
+  </component>
+</project>

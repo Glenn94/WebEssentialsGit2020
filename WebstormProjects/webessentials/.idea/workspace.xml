@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7331073c-ba62-4675-b7a3-1954e1b31bd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/Oef Tabellen/Puntenlijst.css" />
+    </disable_hints>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hoY6ZBNmUjn3MsvGZ0FkOTmm95" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week 1 - inleiding html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\12003251\WebstormProjects\webessentials\Week 1 - inleiding html" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\12003251\WebstormProjects\webessentials\Oefeningen\Oef Soundbar" />
+      <recent name="C:\Users\12003251\WebstormProjects\webessentials\Oefeningen\Oef PXLremake" />
+      <recent name="C:\Users\12003251\WebstormProjects\webessentials\Oefeningen\Oef Mijn Muziek" />
+      <recent name="C:\Users\12003251\WebstormProjects\webessentials\Oefeningen" />
+      <recent name="C:\Users\12003251\WebstormProjects\webessentials\Oef Tabellen" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7331073c-ba62-4675-b7a3-1954e1b31bd7" name="Default Changelist" comment="" />
+      <created>1600678736931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600678736931</updated>
+      <workItem from="1600678738005" duration="1435000" />
+      <workItem from="1600695116387" duration="50000" />
+      <workItem from="1600695295768" duration="45000" />
+      <workItem from="1600695394568" duration="349000" />
+      <workItem from="1600703953120" duration="56000" />
+      <workItem from="1601037373624" duration="518000" />
+      <workItem from="1601472395563" duration="28000" />
+      <workItem from="1601643803509" duration="67000" />
+      <workItem from="1601643878546" duration="708000" />
+      <workItem from="1601644630770" duration="4286000" />
+      <workItem from="1601910979848" duration="125000" />
+      <workItem from="1602662624284" duration="6369000" />
+      <workItem from="1602672522304" duration="45000" />
+      <workItem from="1602683537016" duration="197000" />
+      <workItem from="1602771584497" duration="2973000" />
+      <workItem from="1602779233407" duration="3036000" />
+      <workItem from="1602831862627" duration="362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601648782961">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601648782961" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1602668765945">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602668765945" />
+    <state x="461" y="184" key="SettingsEditor" timestamp="1602668994207">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="184" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602668994207" />
+  </component>
+</project>

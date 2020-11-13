@@ -1,0 +1,36 @@
+body{
+    color: white;
+    font-family: Calibri, Serif;
+    font-size: 13px;
+}
+
+tr {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+th {
+    width: 120px;
+    height: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: #27426d;
+    font-family: Roboto, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+}
+
+tbody tr:nth-child(even){
+    background-color:#6facff;
+}
+tbody tr:nth-child(odd){
+    background-color:#4f8cef;
+}
+
+th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    min-width: 100px;
+}
