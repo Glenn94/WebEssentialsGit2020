@@ -1,37 +1,35 @@
 <!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/html">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href=Soundbarstyle.css>
+    <title>Soundbar</title>
+    <link href="Soundbarstyle.css" rel="stylesheet">
 </head>
-<body>
-<h1>Soundbar</h1>
-<nav class="highlight">
-    <img src="../../assets/buzzer.png" height="150" width="150"/>
-    <audio controls>
-        <source src="../../assets/buzzer.mp3" type="audio/mp3">
-    </audio>
-</nav>
-<br>
-<nav class="highlight">
-    <img src="../../assets/fart.png" height="150" width="150"/>
-    <audio controls>
-        <source src="../../assets/fart.mp3" type="audio/mp3">
-    </audio>
-</nav>
-<br>
-<nav id="doorbell">
-    <img src="../../assets/doorbell.png" height="150" width="150"/>
-    <audio controls>
-        <source src="../../assets/doorbell.mp3" type="audio/mp3">
-    </audio>
-</nav>
-<br>
-<nav class="highlight">
-    <img src="../../assets/badumtss.png" height="150" width="150"/>
-    <audio controls>
-        <source src="../../assets/badumtss.mp3" type="audio/mp3">
-    </audio>
-</nav>
+<body class="background">
+<h1 class="soundboard"> Soundboard</h1>
+<div class="bullet container">
+
+    <div class="container-item" ><img src="../../assets/buzzer.png" width="200">
+        <audio controls class="controls">
+            <source src="../../assets/buzzer.mp3" type="audio/mp3">
+        </audio></div>
+
+    <div class="container-item"><img src="../../assets/fart.png" width="200">
+        <audio controls class="controls">
+
+            <source src="../../assets/fart.mp3" type="audio/mp3">
+        </audio></div></div>
+
+<div class="container">
+    <div class="container-item"><img src="../../assets/doorbell.png" width="200">
+        <audio controls class="controls">
+            <source src="../../assets/doorbell.mp3" type="audio/mp3">
+        </audio></div>
+
+    <div class="container-item"><img src="../../assets/badumtss.png" width="200">
+        <audio controls class="controls" >
+            <source src="../../assets/badumtss.mp3" type="audio/mp3" >
+        </audio></div>
+</div>
 </body>
 </html>
