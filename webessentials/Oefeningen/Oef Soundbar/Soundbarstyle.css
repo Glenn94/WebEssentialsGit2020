@@ -7,15 +7,13 @@
     color: #ffe14f;
 
 }
-
-
 .bullet{
     list-style: none;
-
 }
 .container{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 .container-item{
     float: left;
@@ -26,12 +24,10 @@
     text-align: center;
     border: solid 2px #ffe14f;
 
-
 }
 .container-item:hover{
     background-color: #8daec6;
 }
-
 .controls{
     width: 100%;
 }

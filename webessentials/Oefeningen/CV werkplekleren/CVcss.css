@@ -19,3 +19,12 @@ h1, h2{
     font-family: Calibri;
     font-size: 20px;
 }
+
+img:hover{
+    box-shadow: 20px 20px 10px dimgray;
+}
+
+img:active{
+    border: 2px solid black;
+    box-shadow: 0px 0px 0px white;
+}
