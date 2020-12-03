@@ -18,4 +18,31 @@ footer{
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: center;
+}
+li{
+    display: block;
+    background-color: deepskyblue;
+    float: left;
+    padding: 10px;
+    width: 50px;
+    height: 30px;
+    line-height: 28px;
+}
+li:hover{
+    background-color: #8daec6;
+}
+.body{
+    background-color: lightskyblue;
+}
+li,p,h1{
+    color: white;
+}
 
